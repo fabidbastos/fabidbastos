@@ -1,5 +1,5 @@
 ### Olá! 👋 Eu sou a Fabiana 🧚🏾‍♀️
-- 🌱 Estou estudando para me tornar front-end dev
+- 🌱 Estou estudando para me tornar full stack dev
 - 😄 Pronomes: ela/dela
 
 <div align="center">
